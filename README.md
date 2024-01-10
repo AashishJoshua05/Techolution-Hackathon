@@ -1,3 +1,3 @@
-cd backend
-./venv/Scripts/Activate.ps1(on windows powershell)
-pip install -r requirements.txt
+cd backend\n
+./venv/Scripts/Activate.ps1(on windows powershell)\n
+pip install -r requirements.txt\n
